@@ -1,0 +1,1 @@
+set(CODASH_USER_URL https://eile@github.com/eile/codash.git)

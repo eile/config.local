@@ -1,1 +1,1 @@
-set(CODASH_USER_URL https://eile@github.com/eile/codash.git)
+set(CODASH_USER_URL https://github.com/eile/codash.git)

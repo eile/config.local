@@ -10,4 +10,4 @@ list(APPEND BBPSDK_DEPENDS REQUIRED HDF5)
 set(BBPSDK_HDF5_COMPONENTS "C CXX")
 
 set(BUILDYARD_TRAVIS_CONFIG
- "https://github.com/Bluebrain/config.git config.bluebrain")
+ "https://github.com/BlueBrain/config.git config.bluebrain")

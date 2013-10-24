@@ -1,6 +1,7 @@
 set(CMAKE_USER_URL https://github.com/eile/CMake.git)
 set(CODASH_USER_URL https://github.com/eile/codash.git)
 set(COLLAGE_USER_URL https://github.com/eile/Collage.git)
+set(DISPLAYCLUSTER_USER_URL https://github.com/eile/DisplayCluster.git)
 set(EQUALIZER_USER_URL https://github.com/eile/Equalizer.git)
 set(EXTRACELLULAR_USER_URL ssh://bbpgit.epfl.ch/user/eilemann/extracellular.git)
 set(LIVRE_USER_URL https://github.com/eile/Livre.git)

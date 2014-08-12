@@ -1,5 +1,6 @@
 set(CMAKE_USER_URL https://github.com/eile/CMake.git)
 set(CODASH_USER_URL https://github.com/eile/codash.git)
+set(POPPLER_USER_URL https://github.com/eile/Poppler.git)
 set(COLLAGE_USER_URL https://github.com/eile/Collage.git)
 set(HELLO_USER_URL https://github.com/eile/Hello.git)
 set(DASH_USER_URL https://github.com/eile/dash.git)
